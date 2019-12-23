@@ -1,0 +1,6 @@
+D:\c#\ConsoleRsaCryp\ConsoleRsaCryp\bin\Debug\ConsoleRsaCryp.exe.config
+D:\c#\ConsoleRsaCryp\ConsoleRsaCryp\bin\Debug\ConsoleRsaCryp.exe
+D:\c#\ConsoleRsaCryp\ConsoleRsaCryp\bin\Debug\ConsoleRsaCryp.pdb
+D:\c#\ConsoleRsaCryp\ConsoleRsaCryp\obj\Debug\ConsoleRsaCryp.csprojResolveAssemblyReference.cache
+D:\c#\ConsoleRsaCryp\ConsoleRsaCryp\obj\Debug\ConsoleRsaCryp.exe
+D:\c#\ConsoleRsaCryp\ConsoleRsaCryp\obj\Debug\ConsoleRsaCryp.pdb
